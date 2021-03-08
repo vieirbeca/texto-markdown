@@ -1,13 +1,11 @@
 # texto-markdown
 Repositório para Lição 04
 
-#Anatomia Humana
+# Anatomia Humana
 
-##BIOLOGIA
+## BIOLOGIA
 
-###Medicina
-
-
+### Medicina
 
 
 Anatomia humana é o campo da biologia responsável por estudar a forma e a estrutura do organismo humano, bem como as suas partes. O nome anatomia origina-se do grego *ana*, que significa “parte”, e tomnei, que significa cortar, ou seja, é a parte da biologia que se preocupa com o isolamento de estruturas e seu estudo.
