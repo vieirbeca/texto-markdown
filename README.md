@@ -10,6 +10,8 @@ Anatomia humana é o campo da biologia responsável por estudar a forma e a estr
 
 A anatomia utiliza, principalmente, a técnica conhecida como **dissecaçã**o, que se baseia na execução de cortes que permitem uma melhor visualização das estruturas do organismo. Essa prática é muito realizada nos cursos da área da saúde, tais como medicina, odontologia e fisioterapia.
 
+![](figuras/desenhos-de-anatomia.jpg)
+
 Leia também: Fisiologia, e compreenda como esses dois ramos da biologia são interligados
 
 **A história da anatomia humana**
